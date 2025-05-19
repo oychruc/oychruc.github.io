@@ -14,6 +14,8 @@ Social Participation of the Elderly
 Governance of Aging Society
 Digital Technology Adaptation for the Aged
 
+You can find my CV here: [OuYang Caihong's Curriculum Vitae](../assets/resume.pdf).
+
 Connect me: oych10c@ruc.edu.cn
 
 A data-driven personal website
