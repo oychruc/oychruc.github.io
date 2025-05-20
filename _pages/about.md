@@ -10,9 +10,7 @@ redirect_from:
 I'm Caihong Ouyang, a doctoral student in Gerontology at the School of Population and Health, Renmin University of China.I hold a Bachelor's degree in Public Administration from Zhengzhou University.Welcome to Rainbow's academic field!
 
 Research Interests:
-Social Participation of the Elderly
-Governance of Aging Society
-Digital Technology Adaptation for the Aged
+Social Participation of the Elderly;Governance of Aging Society;Digital Technology Adaptation for the Aged
 
 You can find my CV here: [OuYang Caihong's Curriculum Vitae](../assets/resume.pdf).
 
